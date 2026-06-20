@@ -1,3 +1,4 @@
+<img width="681" height="892" alt="Screenshot 2026-06-20 090752" src="https://github.com/user-attachments/assets/4ba24eee-5947-48a1-bf48-837b22d15196" />
 # Weather App 🌦️
 
 A simple weather application built using **HTML, CSS, and JavaScript** that fetches real-time weather data from the OpenWeather API.
@@ -52,7 +53,7 @@ Open `index.html` in your browser.
 ## Screenshots
 
 screenshots of your application ->
-![Jaipur](<screenshots/Screenshots 2026-06-20 090752.png>)
+<img width="681" height="892" alt="Screenshot 2026-06-20 090752" src="https://github.com/user-attachments/assets/320223d3-8856-440a-9f3d-f41ab6d56430" />
 ![Ghaziabad Weather](<screenshots/Screenshot 2026-06-20 090711.png>)
 ![Gwalior](<screenshots/Screenshot 2026-06-20 090734.png>)
 ![Delhi](<screenshots/Screenshot 2026-06-20 090721.png>)
