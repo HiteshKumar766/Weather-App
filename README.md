@@ -52,7 +52,7 @@ Open `index.html` in your browser.
 ## Screenshots
 
 screenshots of your application ->
-![Jaipur](<Screenshot 2026-06-20 090752.png>)
+![Jaipur](<screenshots/Screenshots 2026-06-20 090752.png>)
 ![Ghaziabad Weather](<screenshots/Screenshot 2026-06-20 090711.png>)
 ![Gwalior](<screenshots/Screenshot 2026-06-20 090734.png>)
 ![Delhi](<screenshots/Screenshot 2026-06-20 090721.png>)
